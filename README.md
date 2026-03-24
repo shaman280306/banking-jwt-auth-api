@@ -76,3 +76,36 @@ git clone https://github.com/shaman280306/banking-jwt-auth-api.git
 cd banking-jwt-auth-api
 npm install
 npm run dev
+🧪 Testing
+
+Use Postman to test:
+
+Register → get token
+Login → get token
+Use token in protected routes
+📈 Future Enhancements
+Refresh Token Mechanism
+Role-Based Access Control (Admin/User)
+Banking Transactions APIs
+Rate Limiting & Advanced Security
+👨‍💻 Author
+
+Shaman Sharma
+B.Tech CSE (AI/ML)
+Chandigarh University
+
+⭐ Conclusion
+
+This project implements a secure, modular, and scalable authentication system suitable for real-world banking applications.
+
+
+---
+
+# 🚀 3. PUSH README
+
+Run:
+
+```bash id="d4"
+git add .
+git commit -m "Added professional README and project description"
+git push
